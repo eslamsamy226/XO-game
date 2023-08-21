@@ -1,0 +1,14 @@
+.center{
+    text-align: center;
+}
+.block {
+     width: 20%;
+    height: 80px;
+    margin-bottom: 5px;
+    margin-left: 5px;
+}
+
+
+.reset {
+   margin-top: 35px;
+}
